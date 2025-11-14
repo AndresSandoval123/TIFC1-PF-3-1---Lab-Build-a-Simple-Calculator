@@ -5,4 +5,4 @@ suma = (num1 + num2)
 
 print("La suma de", num1 , "y", num2, "es: ", suma)
 
-# Gracias por su tiempo en la nivelacion
+# Gracias por su tiempo en la nivelacion, pero mildrey no encendio la cámara =(
