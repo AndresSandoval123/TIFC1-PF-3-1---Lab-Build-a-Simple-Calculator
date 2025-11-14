@@ -6,6 +6,4 @@ suma = (num1 + num2)
 print("La suma de", num1 , "y", num2, "es: ", suma)
 
 # Gracias por su tiempo en la nivelacion  
-
-
-#jajajajaajajajajaja Hola a todos 
+# Andres Sandoval
