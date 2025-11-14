@@ -1,9 +1,4 @@
 num1 = int(input("ingrese el primer numero "))
 num2 = int(input("ingrese el segundo numero "))
 
-suma = (num1 + num2)
-
-print("La suma de", num1 , "y", num2, "es: ", suma)
-
-# Gracias por su tiempo en la nivelacion  
-# Andres Sandoval
+suma 
